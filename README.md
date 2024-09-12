@@ -17,9 +17,9 @@ I to move up
 
 The new controls are:
 
-Numpad+ to speed up the speed of the camera
+Numpad + to speed up the speed of the camera
 
-Numpad- to slow down the speed of the camera
+Numpad - to slow down the speed of the camera
 
 To activate the camera, press the 'end' key. 
 Use C to enable the ability to swap between 1st, 3rd (front & back using P) & the free camera.
