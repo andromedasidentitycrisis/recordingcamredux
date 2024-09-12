@@ -27,7 +27,7 @@ Use P to toggle between player rotation & camera rotation while on the free came
 
 You can also use the 'home' key to disable your HUD allowing for screenshots.
 
-It's my hope to continue updating this mod & adding in more functionality, such as an experimentental 'keyframe' feature & enabling the ability to change what keys are used for the camera in the config.
+It's my hope to continue updating this mod & adding in more functionality, such as an experimental 'keyframe' feature & enabling the ability to change what keys are used for the camera in the config.
 This is my first time ever modding or coding, so bare with me as I try to figure it all out.
 
 Hope you enjoy the mod,
