@@ -1,6 +1,12 @@
 # recordingcameraredux
 An update &amp; improvement to the fantastic 'RecordingCamera' mod by Graze for Lethal Company.
 
+For manual installs:
+To install, just drop 'recordingcamerareduxv1.0.0.dll' in the 'plugins' folder found in the BepInEx folder.
+
+For mod launchers:
+Just click the "install with mod manager" button on Thunderstore.
+
 This mod keeps in tact the original control scheme, while adding in two new buttons to give you further control over the camera.
 
 U to move forward
