@@ -1,4 +1,4 @@
-# recordingcamredux
+# recordingcameraredux
 An update &amp; improvement to the fantastic 'RecordingCamera' mod by Graze for Lethal Company.
 
 This mod keeps in tact the original control scheme, while adding in two new buttons to give you further control over the camera.
